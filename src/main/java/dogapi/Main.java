@@ -16,8 +16,6 @@ public class Main {
     }
 
     /**
-     * Return the number of sub breeds that the given dog breed has according to the
-     * provided fetcher.
      * @param breed the name of the dog breed
      * @param breedFetcher the breedFetcher to use
      * @return the number of sub breeds. Zero should be returned if there are no sub breeds
